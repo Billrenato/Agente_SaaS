@@ -1,0 +1,6 @@
+{
+    "cnpj": "32034550000118",
+    "token": "TOKEN123",
+    "api_url": "http://localhost:9000/upload/xml",
+    "pasta_xml": "C:/xml"
+}
