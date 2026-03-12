@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4YW3IqPv5Cg=",
+  "success": true,
+  "projectFilePath": "C:\\AgenteFiscal\\AgenteFiscal\\AgenteFiscal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renat\\.nuget\\packages\\flurl\\4.0.0\\flurl.4.0.0.nupkg.sha512",
+    "C:\\Users\\Renat\\.nuget\\packages\\flurl.http\\4.0.1\\flurl.http.4.0.1.nupkg.sha512",
+    "C:\\Users\\Renat\\.nuget\\packages\\flurl.http.newtonsoft\\0.9.1\\flurl.http.newtonsoft.0.9.1.nupkg.sha512",
+    "C:\\Users\\Renat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Renat\\.nuget\\packages\\newtonsoft.json.encryption\\2.2.0\\newtonsoft.json.encryption.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
